@@ -1,0 +1,1 @@
+confirm("¿quieres salir de esta pagina?")
